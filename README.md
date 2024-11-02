@@ -12,6 +12,12 @@ The insights from this analysis will guide data-driven decision-making to improv
 - **Tableau:** For data visualization.
 - **Lucid Chart:** For database design.
 
+## Link to the Tableau dashboard :
 
+https://public.tableau.com/app/profile/chitra.rao/viz/MarketFlash_17225060548450/MarketFlashDashboard
+
+## Link to the presentation :
+
+https://1drv.ms/p/c/615f608b1e441f3c/EVd9lVYrwChLqiBMwSV9PrsBJ-Llr_5pAtyiuDrT3nHSVQ
 
 
